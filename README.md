@@ -1,1 +1,1 @@
-# atividades-variaveis-java
+# atividades-variaveis-javascript
